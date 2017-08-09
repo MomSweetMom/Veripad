@@ -1,4 +1,4 @@
-## VERIPAD NOTES##
+## VERIPAD NOTES
 
 ### 1. Vision
 	From One-page
