@@ -10,6 +10,7 @@ Great read from India case
 
 ### 2. Competitors:
 *   [Sproxil](https://www.sproxil.com/defender/)
+
     Please refer to website & Sproxil-defender folder to see their current use case
 *   [Mpedigree](http://mpedigree.net/what-we-do/)
 *   [Pharmasecure](https://www.pharmasecure.com/brand/)
