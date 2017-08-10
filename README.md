@@ -56,7 +56,7 @@ Sounds boring already? It's critical for the survival of any company. There are 
 
 **Slicing the cake**
 
-One may like to ownership, another may like to take control of the startup. In any case, it should be clearly defined in company establishment charter or written documents. Though still early to say, it is crucial as it gives rise to later conflicts.
+One may like having ownership, another may like to take control of the startup. In any case, it should be clearly defined in company establishment charter or written documents. Though still early to say, it is crucial as it gives rise to later conflicts.
 
 ### 5. Team
 Well, just pick the right people for the right job, easy enough? So we have to test any combination of people to find out? How about cultural fit? Or picking the best of their fields? ... Well, for me, at the end of the day, we only do what we care and then care what we do. If the message is clear and we also care about how we do it, we can make it happen and get along with each other. It also seems not to take a form of short-lived excitement but closer to enthusiasm and passion.
