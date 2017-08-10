@@ -18,33 +18,46 @@ B2B and B2C are quite different in the way they approach enterprise and consumer
 
 Starting with B2B, it would mean doing business with enterprises, specifically medical companies, governmental organizations, NGOs, medical school, labs. In the essence, it will provide a bulk of products (physical (pads) and software (apps)) plus opportunities for further research, teaching, business consulting to constantly improve the value of offering or develop more products (software, hardware or combine both).
 
-B2C will closely related to how we understand the consumer (or patient) market, particular their motivation. For example, one purchasing drugs may find it tedious to test every single time they buy them, how can we persuade them to do the testing (or buy testing solution) for their own benefit? Some companies are answering that through a mechanism of brand trust, like asking customer to text the secret number embedded in each drug bottle by producers, get verified message back, hence the increased trust to the brand. Customers are free of charged. The business model is actually B2B2C, with pharmaceutical and distributors paying the bill. However, it all depends on the willingness of distributors to engage into such solution as they may not want to be transparent on the product, or they are the one who duplicate all the drugs under the same label or secret number. Veripad will possibly face the same challenge in adoption.
+B2C will closely related to the understanding the consumer (or patient) market, in particular their needs. For example, one customer purchasing drugs may find it tedious to check every single time they buy them, how can we persuade them to do the testing (or buy testing solution) for their own benefit? Some companies are answering that through a mechanism of brand trust, like asking end users to text the secret number embedded in each drug bottle by producers, get verified message back, hence increasing brand trust. Customers are free of charged. The business model is actually B2B2C, with pharmaceutical and distributors paying the bill. However, it all depends on the willingness of distributors to engage into such solution as they may not want to be transparent on the product, or they are the one who implicitly duplicates drugs under the same label or secret number. Along the way,
+Veripad will possibly face the same challenges in adoption.
 
-As Veripad is in its epiphany, raising awareness through different social media channels, connecting to expect and voices on those platform will be very helpful. After a short research, I suggest to contact [Roger Bate](https://www.linkedin.com/in/roger-bate-149b0b4/) of American Enterprise Institute as he has been chasing the topic for a while. Another noticeable voice is of [Bejon Misra](https://www.linkedin.com/in/bejon-misra-1a465a4b/), founder of Safe Medicine, India, with his insights into the country of second largest population.
+As Veripad is in its epiphany, raising awareness through different social media channels and connecting to expect and voices on those platform will be very helpful. After a short research, I suggest to contact [Roger Bate](https://www.linkedin.com/in/roger-bate-149b0b4/) of American Enterprise Institute as he has been chasing the topic for a while. Another noticeable voice is of [Bejon Misra](https://www.linkedin.com/in/bejon-misra-1a465a4b/), founder of Safe Medicine, India, with his insights into the country of second largest population.
 
 Notes:
-The reason why I was asking about insurance company's presence in the countries where the product is launched is that they have a real motivation to make sure there customer using good-quality medicines, so either they give there clients as part of the deal or introduce them to products like Veripad.  
+The reason why I was asking about insurance company's presence in the countries where the product is launched is that they have real motivation to make sure their customers use good-quality medicines. So either they include testing solution as part of the insurance contract or introduce them to testing products.  
 
 ### 2. Pricing & Selling Strategy
-Though we see  price tag everyday, we might be not aware that it is actually a common way for companies to express their vision, status, product quality, power of bargaining, customer reach ... If they just realize only part of these, they may be offering less value than they wish.
+Though we see  price tag everyday, we might be not aware that it is actually a common way for companies to express their vision, status, product quality, power of bargaining, customer reach ...
 
-Before going further, we need to keep in mind:
+There are something to keep in mind in pricing
 1. Value has nothing to do with cost
 2. Value is created at the end user
 3. All value is relative
 
-There are indeed many way of pricing. For example, subscription based (very popular) (iTunes, Spotify, web-based services...), one-stop-shop (supermarkets), tiers (airline tickets - Economic/Business class), add-ons (products and then value-added services)
+There are indeed many way of pricing. For example, subscription based (very popular) (iTunes, Spotify, web-based services...), one-stop-shop (supermarkets), tiers (airline tickets - Economic/Business class), add-ons (products and then value-added services) ...
 
-As I learned about pricing, I cannot stress enough how important it is to make a successful business, as it ties closely to cost management, the value of offering and how the business positions itself.
-If we just consider selling pad as a commodity product, we can only sell as much as they are needed with fix price. Our gross revenue will be defined by volume (sale) x price per unit. In case of B2C, it will make it more affordable for people, with only consideration of adjusting price would increase customer base (volume), which is favorable in low-income countries.
+From what I have learned and experienced on pricing, I cannot stress enough how important it is to make a successful business, as it ties closely to the value of offering, cost management and how the business positions itself.
 
-In B2B case, it would be better to go with a 'package' offering. For example, a package of 200 new pads/month with mobile application constantly updated and 20 working days collaboration each year. The value of the offering hence contains not only the production cost, but the cost B2B customer can save when they eliminate counterfeit drugs and sell more quality product problem, and also hours of research by themselves. Veripad team can play a more active role in further collaboration with their labs, doing further research and develop new products for new requirements.
+In B2B case, it should never be considered only selling pad as it only gets what it offers, commodity product, like product people can buy at the supermarket. Instead, it can be marketed itself into a 'package' offering. For example, a package of 200 new pads/month with mobile application constantly updated and 20 working days collaboration each year would be more valuable for enterprise. The package price hence can be sold at a premium much higher than just numbers of pads, because there are also people involvement toward long-term collaboration, software updates and possible production extension in the future. We are not running away from customer after handing them our pads, we stay with their sales, their labs and develop new testing product. Being able to sell this package proves the vision, strong commitment and confidence in the product.
+
+In B2C case, yes, it can be commodity product, being sell in any supermarket for anyone who needs it and in any country. However, at beginning steps, the testing solution should be carefully distributed through good hands, building a trust consumers, producers and distributors community alike. Convenient, effective and attentive should be characteristics of its using by people in the communities. They use the testing method because they do care, about themselves, about what vendors and drugs producers are doing.
+
+Dealing with governmental customers might be a different story, then the insights are much needed from experts and insiders, which suggests we trace different routes towards the decision makers.
 
 
 ### 3. Funding
 [Sources and Stages of funding](https://blog.adioma.com/how-funding-works-splitting-equity-infographic/)
-It's really crucial for any startup. But may be the most important currency is time that we commit to do something.
+It's really crucial for any startup. But may be the most important currency is the time that we commit to do something in exchange of not doing other. I will write about it more, on how actual angel investors are required from a startup.
+
+### 4. Legal
+**Intellectual Property Right**
+
+Sound boring already? It's critical for the survival of any company. There are two ways to go, protectionism, guarding the product by all means, or simply public the information so anyone can copy, reproduce, collaborate and constantly improve (disprove) it. In my field, deep learning library is clearly heading toward the second direction, with big names make their open sources (Google, Facebook, Microsoft, Amazon AWS). The one with the most developers and users is the winner. In pharmaceutical industries, they have kept their secret formulas for decades and try to extend their privilege many more years. At certain point, we have to make a decision, and better make it soon. What we value the most in the startups, is it a form of 'social entrepreneurship'. If so, how far can it goes ?
+
+**Slicing the cake**
+
+One may like to ownership, another may like to take control of the startup. In any case, it should be clearly defined in company establishment charter or written documents. Though still early to say, it is crucial as it gives rise to later conflicts.
 
 > The contribution I made here is the modest I can do to support and encourage you to continue making quality pharmaceutical product within the reach of people and address the long-standing problem in Africa and many other places. I do not assume that something will only have a good side, there are side effects too. But I do think that you are on the right track. Keep up !!!
 
-> You may find MarketResearch.md, Supervisors.md and other documents in Market Research folder many good information. I'm really busy right now, so maybe I will send you the use case of data next week. Again, don't hesitate to ask me anything!
+> You may find MarketResearch.md, Supervisors.md and other documents in Market Research folder many good information. I can only write in my free time as I'm really busy these days, after the vacation. Perhaps I will send you the use case of data next week. Again, don't hesitate to ask me anything!
