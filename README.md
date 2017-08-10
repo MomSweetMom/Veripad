@@ -1,5 +1,5 @@
 ## VERIPAD NOTES
-All of the info below is subject to change as being based on my currnet understanding and gathering. Above all, discussion and idea exchange are key for successful innovation initiative.
+All of the info below is subject to change as being based on my current understanding and gatherings. Above all, discussion and idea exchange are key for successful innovation initiatives.
 
 ### 1. Vision
 From Veripad One Pager
@@ -18,7 +18,7 @@ B2B and B2C are quite different in the way they approach enterprise and consumer
 
 Starting with B2B, it would mean doing business with enterprises, specifically medical companies, governmental organizations, NGOs, medical school, labs. In the essence, it will provide a bulk of products (physical (pads) and software (apps)) plus opportunities for further research, teaching, business consulting to constantly improve the value of offering or develop more products (software, hardware or combine both).
 
-B2C will closely related to the understanding the consumer (or patient) market, in particular their needs. For example, one customer purchasing drugs may find it tedious to check every single time they buy them, how can we persuade them to do the testing (or buy testing solution) for their own benefit? Some companies are answering that through a mechanism of brand trust, like asking end users to text the secret number embedded in each drug bottle by producers, get verified message back, hence increasing brand trust. Customers are free of charged. The business model is actually B2B2C, with pharmaceutical and distributors paying the bill. However, it all depends on the willingness of distributors to engage into such solution as they may not want to be transparent on the product, or they are the one who implicitly duplicates drugs under the same label or secret number. Along the way,
+B2C will closely related to the understanding the consumer (or patient) market, in particular their needs. For example, customer purchasing drugs may find it tedious to check every single time they buy them, how can we persuade them to do the testing (or buy testing solution) for their own benefit? Some companies are answering that through a mechanism of brand trust, like asking end users to text the secret number embedded in each drug bottle by producers, get verified message back, hence increasing brand trust. Customers are free of charged. The business model is actually B2B2C, with pharmaceutical and distributors paying the bill. However, it all depends on the willingness of distributors to engage into such solution as they may not want to be transparent on the product, or they are the one who implicitly duplicates drugs under the same label or secret number. Along the way,
 Veripad will possibly face the same challenges in adoption.
 
 As Veripad is in its epiphany, raising awareness through different social media channels and connecting to expect and voices on those platform will be very helpful. After a short research, I suggest to contact [Roger Bate](https://www.linkedin.com/in/roger-bate-149b0b4/) of American Enterprise Institute as he has been chasing the topic for a while. Another noticeable voice is of [Bejon Misra](https://www.linkedin.com/in/bejon-misra-1a465a4b/), founder of Safe Medicine, India, with his insights into the country of second largest population.
@@ -52,11 +52,14 @@ It's really crucial for any startup. But may be the most important currency is t
 ### 4. Legal
 **Intellectual Property Right**
 
-Sound boring already? It's critical for the survival of any company. There are two ways to go, protectionism, guarding the product by all means, or simply public the information so anyone can copy, reproduce, collaborate and constantly improve (disprove) it. In my field, deep learning library is clearly heading toward the second direction, with big names make their open sources (Google, Facebook, Microsoft, Amazon AWS). The one with the most developers and users is the winner. In pharmaceutical industries, they have kept their secret formulas for decades and try to extend their privilege many more years. At certain point, we have to make a decision, and better make it soon. What we value the most in the startups, is it a form of 'social entrepreneurship'. If so, how far can it goes ?
+Sounds boring already? It's critical for the survival of any company. There are two ways to go, protectionism, guarding the product by all means, or simply public the information so anyone can copy, reproduce, collaborate and constantly improve (or disprove) it. In my field, deep learning library is clearly heading toward the second direction, with big names making their open sources (Google, Facebook, Microsoft, Amazon AWS). The one with the most developers and users is the winner. In pharmaceutical industries, they have kept their secret formulas for decades and try to extend their privilege many more years to come. At certain point, we have to make a decision, and better make it soon. What we value the most in the startup? Is it a form of 'social entrepreneurship'. If so, how far should it (or can it) goes?
 
 **Slicing the cake**
 
 One may like to ownership, another may like to take control of the startup. In any case, it should be clearly defined in company establishment charter or written documents. Though still early to say, it is crucial as it gives rise to later conflicts.
+
+### 5. Team
+Well, just pick the right people for the right job, easy enough? So we have to test any combination of people to find out? How about cultural fit? Or picking the best of their fields? ... Well, for me, at the end of the day, we only do what we care and then care what we do. If the message is clear and we also care about how we do it, we can make it happen and get along with each other. It also seems not to take a form of short-lived excitement but closer to enthusiasm and passion.
 
 > The contribution I made here is the modest I can do to support and encourage you to continue making quality pharmaceutical product within the reach of people and address the long-standing problem in Africa and many other places. I do not assume that something will only have a good side, there are side effects too. But I do think that you are on the right track. Keep up !!!
 
