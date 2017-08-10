@@ -1,4 +1,5 @@
 ## VERIPAD NOTES
+It's better to be viewed on the desktop
 All of the info below is subject to change as being based on my current understanding and gatherings. Above all, discussion and idea exchange are key for successful innovation initiatives.
 
 ### 1. Vision
