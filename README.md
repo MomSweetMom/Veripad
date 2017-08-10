@@ -2,16 +2,16 @@
 All of the info below is subject to change as being based on my currnet understanding and gathering. Above all, discussion and idea exchange are key for successful innovation initiative.
 
 ### 1. Vision
-From Veripad One-Pager
- ```We are working to create a world where people no
-	longer suffer from counterfeit and substandard
-	medicines. We dream that one day mistrust of medicine
-	will be a thing of the past, and we work diligently to
-	achieve that dream. We empower any individuals to test
-	the quality of medicines using our affordable solution. In
-	doing so, we strengthen the trust and loyalty between
-	patients and pharmacies
-```
+From Veripad One Pager
+>We are working to create a world where people no
+longer suffer from counterfeit and substandard
+medicines. We dream that one day mistrust of medicine
+will be a thing of the past, and we work diligently to
+achieve that dream. We empower any individuals to test
+the quality of medicines using our affordable solution. In
+doing so, we strengthen the trust and loyalty between
+patients and pharmacies
+
 
 ### 2. Business model
 B2B and B2C are quite different in the way they approach enterprise and consumers. As B2B comes with longterm relationship, bigger-size deal, longer time of process, decision making and negotiation , involving numerous stakeholders, B2C is ofter more direct, with wider ranger of customer base, interactions, feedback, sale volume (or number of customers) / price tradeoff in many case.
