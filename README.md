@@ -63,4 +63,4 @@ Well, just pick the right people for the right job, easy enough? So we have to t
 
 > The contribution I made here is the modest I can do to support and encourage you to continue making quality pharmaceutical product within the reach of people and address the long-standing problem in Africa and many other places. I do not assume that something will only have a good side, there are side effects too. But I do think that you are on the right track. Keep up !!!
 
-> You may find MarketResearch.md, Supervisors.md and other documents in Market Research folder many good information. I can only write in my free time as I'm really busy these days, after the vacation. Perhaps I will send you the use case of data next week. Again, don't hesitate to ask me anything!
+> You may find MarketResearch.md, Supervisors.md and other documents in Market Research folder many good information. Please share them with your team too! I can only write in my free time as I'm really busy these days, after the vacation. Perhaps I will send you the use case of data next week. Again, don't hesitate to ask me anything!
