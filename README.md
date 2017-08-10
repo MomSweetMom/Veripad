@@ -43,7 +43,7 @@ In B2B case, it would be better to go with a 'package' offering. For example, a 
 
 ### 3. Funding
 [Sources and Stages of funding](https://blog.adioma.com/how-funding-works-splitting-equity-infographic/)
-
+It's really crucial for any startup. But may be the most important currency is time that we commit to do something.
 
 > The contribution I made here is the modest I can do to support and encourage you to continue making quality pharmaceutical product within the reach of people and address the long-standing problem in Africa and many other places. I do not assume that something will only have a good side, there are side effects too. But I do think that you are on the right track. Keep up !!!
 
