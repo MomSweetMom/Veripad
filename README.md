@@ -1,6 +1,14 @@
+
+
 ## VERIPAD NOTES
 It's better to be viewed on the desktop
 All of the info below is subject to change as being based on my current understanding and gatherings. Above all, discussion and idea exchange are key for successful innovation initiatives.
+- [Vision](#1.-Vision)
+- [Business model](#2.-Business-model)
+- [Pricing & Selling Strategy][#3.-Pricing-&-Selling-Strategy]
+- [Funding](#4.-Funding)
+- [Legal](#5.-Legal)
+- [Team](#6.-Team)
 
 ### 1. Vision
 From Veripad One Pager
@@ -14,7 +22,7 @@ doing so, we strengthen the trust and loyalty between
 patients and pharmacies
 
 
-### 2. Business model
+### 2. Business Model
 B2B and B2C are quite different in the way they approach enterprise and consumers. As B2B comes with longterm relationship, bigger-size deal, longer time of process, decision making and negotiation , involving numerous stakeholders, B2C is ofter more direct, with wider ranger of customer base, interactions, feedback, sale volume (or number of customers) / price tradeoff in many case.
 
 Starting with B2B, it would mean doing business with enterprises, specifically medical companies, governmental organizations, NGOs, medical school, labs. In the essence, it will provide a bulk of products (physical (pads) and software (apps)) plus opportunities for further research, teaching, business consulting to constantly improve the value of offering or develop more products (software, hardware or combine both).
@@ -27,7 +35,7 @@ As Veripad is in its epiphany, raising awareness through different social media 
 Notes:
 The reason why I was asking about insurance company's presence in the countries where the product is launched is that they have real motivation to make sure their customers use good-quality medicines. So either they include testing solution as part of the insurance contract or introduce them to testing products.  
 
-### 2. Pricing & Selling Strategy
+### 3. Pricing & Selling Strategy
 Though we see  price tag everyday, we might be not aware that it is actually a common way for companies to express their vision, status, product quality, power of bargaining, customer reach ...
 
 There are something to keep in mind in pricing
@@ -46,11 +54,11 @@ In B2C case, yes, it can be commodity product, being sell in any supermarket for
 Dealing with governmental customers might be a different story, then the insights are much needed from experts and insiders, which suggests we trace different routes towards the decision makers.
 
 
-### 3. Funding
+### 4. Funding
 [Sources and Stages of funding](https://blog.adioma.com/how-funding-works-splitting-equity-infographic/)
 It's really crucial for any startup. But may be the most important currency is the time that we commit to do something in exchange of not doing other. I will write about it more, on how actual angel investors are required from a startup.
 
-### 4. Legal
+### 5. Legal
 **Intellectual Property Right**
 
 Sounds boring already? It's critical for the survival of any company. There are two ways to go, protectionism, guarding the product by all means, or simply public the information so anyone can copy, reproduce, collaborate and constantly improve (or disprove) it. In my field, deep learning library is clearly heading toward the second direction, with big names making their own open sources (Google, Facebook, Microsoft, Amazon AWS). The one with the most developers and users is the winner. In pharmaceutical industries, they have kept their secret formulas for decades and try to extend their privilege many more years to come. At certain point, we have to make a decision, and better make it soon. What we value the most in the startup? Is it a form of 'social entrepreneurship'. If so, how far should it (or can it) goes?
@@ -59,7 +67,7 @@ Sounds boring already? It's critical for the survival of any company. There are 
 
 One may like having ownership, another may like to take control of the startup. In any case, it should be clearly defined in company establishment charter or written documents. Though still early to say, it is crucial as it gives rise to later conflicts.
 
-### 5. Team
+### 6. Team
 Well, just pick the right people for the right job, easy enough? So we have to test any combination of people to find out? How about cultural fit? Or picking the best of their fields? ... Well, for me, at the end of the day, we only do what we care and then care what we do. If the message is clear and we also care about how we do it, we can make it happen and get along with each other. It also seems not to take a form of short-lived excitement but closer to enthusiasm and passion.
 
 > The contribution I made here is the modest I can do to support and encourage you to continue making quality pharmaceutical product within the reach of people and address the long-standing problem in Africa and many other places. I do not assume that something will only have a good side, there are side effects too. But I do think that you are on the right track. Keep up !!!
