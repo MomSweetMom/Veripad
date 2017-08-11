@@ -3,12 +3,12 @@
 ## VERIPAD NOTES
 It's better to be viewed on the desktop
 All of the info below is subject to change as being based on my current understanding and gatherings. Above all, discussion and idea exchange are key for successful innovation initiatives.
-- [Vision](#1.-Vision)
-- [Business model](#2.-Business-model)
-- [Pricing & Selling Strategy][#3.-Pricing-&-Selling-Strategy]
-- [Funding](#4.-Funding)
-- [Legal](#5.-Legal)
-- [Team](#6.-Team)
+- [Vision](#1-Vision)
+- [Business model](#2-Business-model)
+- [Pricing & Selling Strategy](#3-Pricing-&-Selling-Strategy)
+- [Funding](#4-Funding)
+- [Legal](#5-Legal)
+- [Team](#6-Team)
 
 ### 1. Vision
 From Veripad One Pager
